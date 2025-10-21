@@ -1,25 +1,4 @@
 [
   "AlvaCreature.js",
-  "ArcFanCreature.js",
-  "CheckerVariationCreature.js",
-  "CircleGridCreature.js",
-  "ConcentricRectsCreature.js",
-  "Creature.js",
-  "DashesCreature.js",
-  "DiagonalsCreature.js",
-  "DotMatrixCreature.js",
-  "LinesGridCreature.js",
-  "LissajousCreature.js",
-  "MondrianCreature.js",
-  "NoiseFieldCreature.js",
-  "OffsetSquaresCreature.js",
-  "PermutationLinesCreature.js",
-  "RandomWalkCreature.js",
-  "RecursiveSubdivideCreature.js",
-  "SpiralLinesCreature.js",
-  "StepsCreature.js",
-  "StripesCreature.js",
-  "TrianglesTilingCreature.js",
-  "WarpedGridCreature.js",
-  "WormCreature.js"
+  "VictoriaCreature.js"
 ]

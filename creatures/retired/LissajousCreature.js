@@ -30,3 +30,4 @@ class LissajousCreature extends Creature {
     pop();
   }
 }
+

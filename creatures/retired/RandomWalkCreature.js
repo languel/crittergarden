@@ -32,3 +32,4 @@ class RandomWalkCreature extends Creature {
     pop();
   }
 }
+

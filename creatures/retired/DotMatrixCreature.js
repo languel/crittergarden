@@ -49,3 +49,4 @@ class DotMatrixCreature extends Creature {
     pop();
   }
 }
+

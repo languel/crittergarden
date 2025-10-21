@@ -45,3 +45,4 @@ class WarpedGridCreature extends Creature {
     pop();
   }
 }
+

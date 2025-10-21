@@ -48,3 +48,4 @@ class MondrianCreature extends Creature {
     pop();
   }
 }
+
