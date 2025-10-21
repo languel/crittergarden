@@ -41,4 +41,3 @@ class WormCreature extends Creature {
     pop();
   }
 }
-

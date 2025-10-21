@@ -28,4 +28,3 @@ class NoiseFieldCreature extends Creature {
     pop();
   }
 }
-
