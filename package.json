@@ -1,0 +1,10 @@
+{
+  "name": "crittergarden",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "students": "node tools/generate-student-manifest.mjs",
+    "watch:students": "node tools/watch-students.mjs",
+    "start": "node tools/dev.mjs"
+  }
+}

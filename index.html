@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sketch</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+    <!-- Creature registry and base class -->
+    <script src="creatures/registry.js"></script>
+    <script src="creatures/Creature.js"></script>
+    <!-- Auto-loader for student creatures (uses students/_manifest.json) -->
+    <script src="creatures/autoLoader.js"></script>
+  </head>
+
+  <body>
+    <div id="toolbar">
+      <select id="creaturePicker">
+        <option value="__random__">Random</option>
+      </select>
+    </div>
+    <script src="sketch.js"></script>
+  </body>
+</html>
