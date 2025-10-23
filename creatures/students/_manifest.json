@@ -1,5 +1,9 @@
 [
   "AlvaCreature.js",
+  "AshleyCreature.js",
+  "BouncyBlob.js",
+  "EyeCreature.js",
+  "MiloCreature.js",
   "NaomiCreature.js",
   "VictoriaCreature.js"
 ]
